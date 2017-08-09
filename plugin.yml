@@ -1,5 +1,5 @@
 main: awzaw\antispampro\AntiSpamPro
-api: [3.0.0-ALPHA7]
+api: [3.0.1]
 load: POSTWORLD
 name: AntiSpamPro
 description: "AntiSpamPro"
